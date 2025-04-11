@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#encabezado{
+    background-color: aliceblue;
+    width: 75%;
+    margin-left: 12.5%;
+    height:120px;
+    border-radius: 20px;
+}
+#fondo{
+    background-color: #ff0056;
+    height: 2780px;;
+    width: 100%;
+    
+}
+a.INICIO{
+    text-align: center;
+    margin-left: 49%;
+    color: black;
+    background-color: #fffb00;
+    border-radius: 5px;
+    font-size: xx-large;
+    text-decoration: none;
+    border: 3px solid black;
+}
+
+
+#CUERPO{
+    background-color: azure;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 2420px;
+    width: 95%;
+    border-radius: 40px;
+}
+p{
+    text-align: justify;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    margin: 5px;
+    padding: 5px;
+}
+img.aside{
+    alt: "No se pudo encontrar la imagen";
+    margin-left: 150px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 260px;
+}
+img.aside-r{
+    alt: "No se pudo encontrar la imagen";
+    margin-left: 270px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 260px;
+    border-radius: 90px;
+}
+img.aside-l{
+    alt: "No se pudo encontrar la imagen";
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 260px;
+}
+
+aside{
+    float: left;
+    width: 30%;
+    height: 100%;
+    background-color: #ff89d7;
+    margin-right: 40px;
+    border-radius: 40px;
+}
+
+img.imgcapas{
+    width: 340px;
+    alt: "no se pudo encontrar la imágen";
+    margin-left: 200px;
+}
+
+a{
+    font-size: x-large;
+    color: blueviolet;
+    margin: 20px;
+    
+}
+a.linkmodulos{
+    text-decoration: none;
+    color: black;
+    margin-left: 190px;
+    padding: 5px;
+    text-align: center;
+    background-color: #ff8800;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#INTRO{
+    text-align: center
+}
+#PIEPAGINA{
+    background-color: aliceblue;
+    height: 160px;
+    margin-left: 12.5%;
+    width: 75%;
+    border-radius: 50px;
+}
+p.piepagina{
+    color: black;
+    text-align: center;
+    padding: 25px;
+    margin: 5px;
+}
+img.piepagimg{
+    float: right;
+    width: 180px;
+    margin-right: 200px;
+    margin-top: 10px;
+}
+
+table{
+    border: 5px solid black;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 67%;
+    margin-left: 1.5%;
+}
+th,td{
+    padding: 5px;
+    margin: 5px;
+    border: 3px solid black;
+    text-align: center;
+    background-color: #dddddd
+}
+th.modtab{
+    background-color: #75ffb5;
+}
+#CUERPO1{
+    background-color: azure;
+    margin-top: 30px;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    height: 2020px;
+    width: 85%;
+    border-radius: 40px;
+}
+#fondo1{
+    background-color: #3200ff;
+    height: 2400px;
+    width: 100%;
+    
+}
+th.submodulostab{
+    background-color: #00b2ff;
+}
+table.modulos{
+    border: 5px solid black;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 90%;
+    margin-left: 5%;
+}
+a.INICIO1{
+    text-align: center;
+    margin-left: 49%;
+    color: black;
+    background-color: #ff00c8;
+    border-radius: 5px;
+    font-size: xx-large;
+    text-decoration: none;
+    border: 3px solid black;
+}
+a.linkmodulos1{
+    text-decoration: none;
+    color: black;
+    margin-left: 190px;
+    padding: 5px;
+    text-align: center;
+    background-color: #ac0eff;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+img.modulos{
+    alt: "No se pudo encontrar la imágen";
+    width: 490px;
+    border-radius: 5px;
+    border: 3px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#CUERPO2{
+    background-color: azure;
+    margin-top: 30px;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    height: 2120px;
+    width: 85%;
+    border-radius: 40px;
+}
+#fondo2{
+    background-color: #3200ff;
+    height: 2500px;
+    width: 100%;
+    
+}
+#CUERPO3{
+    background-color: azure;
+    margin-top: 30px;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    height: 1600px;
+    width: 85%;
+    border-radius: 40px;
+}
+#fondo3{
+    background-color: #3200ff;
+    height: 2000px;
+    width: 100%;
+    
+}
+#CUERPO4{
+    background-color: azure;
+    margin-top: 30px;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    height: 1900px;
+    width: 85%;
+    border-radius: 40px;
+}
+#fondo4{
+    background-color: #3200ff;
+    height: 2300px;
+    width: 100%;
+    
+}
+
+
+
+
+
+
+
+
